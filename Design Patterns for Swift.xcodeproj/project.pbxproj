@@ -8,12 +8,16 @@
 
 /* Begin PBXFileReference section */
 		39B73B6329B0455A0045D896 /* Factory-Pattern.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Factory-Pattern.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		39B73B6429B048630045D896 /* Observer-NotificationCenter.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Observer-NotificationCenter.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		39B73B6529B0489C0045D896 /* Observer-Closure.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Observer-Closure.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		39B73B5C29B0453D0045D896 = {
 			isa = PBXGroup;
 			children = (
+				39B73B6529B0489C0045D896 /* Observer-Closure.playground */,
+				39B73B6429B048630045D896 /* Observer-NotificationCenter.playground */,
 				39B73B6329B0455A0045D896 /* Factory-Pattern.playground */,
 			);
 			sourceTree = "<group>";
